@@ -1,0 +1,10 @@
+.poland-background {
+    background: #dc143c;
+}
+.poland-upper-half {
+    background: #ffffff;
+    width: 100%;
+    height: 50%;
+    position: absolute;
+}
+

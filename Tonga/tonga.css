@@ -1,0 +1,29 @@
+.tonga-background {
+    background: #c10000;
+}
+.tonga-white-block {
+    background: #ffffff;
+    width: 41%;
+    height: 50%;
+    position: absolute;
+}
+
+.tonga-line {
+    position: absolute;
+    background: #c10000;
+}
+
+.tonga-horizontal-line {
+    width: 25%;
+    height: 12.7%;
+    top: 19%;
+    left: 8.3%;
+}
+
+.tonga-vertical-line {
+    width: 8.3%;
+    height: 37.6%;
+    top: 6.4%;
+    left: 16.7%;
+}
+

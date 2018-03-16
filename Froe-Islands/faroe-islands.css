@@ -1,0 +1,94 @@
+@import url("Botswana/botswana.css");
+@import url("Denmark/denmark.css");
+@import url("Hungary/hungary.css");
+@import url("Laos/laos.css");
+@import url("St-Lucia/st-lucia.css");
+
+.flag-shape {
+    position: relative;
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    border: 1px solid #ccc;
+    margin:10px;
+}
+
+.country-name {
+    position: absolute;
+    display: none;
+    top: 100%;
+}
+
+.flag-shape:hover .country-name {
+    display: block;
+}
+.tonga-background {
+    background: #c10000;
+}
+.tonga-white-block {
+    background: #ffffff;
+  width: 41%;
+    height: 50%;
+  position: absolute;
+    
+}
+
+.tonga-line {
+    position: absolute;
+    background: #c10000;
+}
+
+.tonga-horizontal-line {
+       width: 25%;
+       height: 12.7%;
+    top: 19%;
+  left: 8.3%;
+}
+
+.tonga-vertical-line {
+     width: 8.3%;
+    height: 37.6%;
+    top: 6.4%;
+  left: 16.7%;
+}
+
+.poland-background {
+    background: #dc143c;
+}
+.poland-upper-half {
+    background: #ffffff;
+  width: 100%;
+    height: 50%;
+  position: absolute;
+}
+
+.faroe-line{
+    position: absolute;
+}
+.faroe-background{
+    background: #ffffff;
+}
+.faroe-horizontal-blue-line{
+    background: #3b5aa3;
+    height:30%;
+    top:35%;
+    width:100%;
+}
+.faroe-vertical-blue-line{
+    background: #3b5aa3;
+    height:100%;
+    width:20%;
+    left:15%;
+}
+.faroe-horizontal-red-line{
+    background:#be0027;
+    height:15%;
+    width:100%;
+    top:42.5%;
+}
+.faroe-vertical-red-line{
+    background:#be0027;
+    height:100%;
+    width:10%;
+    left:20%;
+}

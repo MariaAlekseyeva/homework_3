@@ -1,0 +1,37 @@
+.st-lucia-background {
+    background: #66ccff;
+}
+
+.st-lucia-triangle-white {
+    position: absolute;
+    left: 82.6px;
+    bottom: 15.2px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 67px 169px 67px;
+    border-color: transparent transparent #ffffff transparent;
+}
+
+.st-lucia-triangle-black {
+    position: absolute;
+    left: 92.6px;
+    bottom: 15.2px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-style: solid;
+    border-width: 0 57px 142px 57px;
+    border-color: transparent transparent #000000 transparent;
+}
+
+.st-lucia-triangle-yellow {
+    position: absolute;
+    left: 82.6px;
+    bottom: 15.2px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 67px 82.6px 67px;
+    border-color: transparent transparent #fcd116 transparent;
+}
